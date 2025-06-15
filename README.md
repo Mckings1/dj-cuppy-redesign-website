@@ -1,18 +1,9 @@
-# Welcome to your Lovable project
-
+# Welcome to dj cuppy redesign website
 ## Project info
-
-**URL**: https://lovable.dev/projects/5daa93c4-8deb-4af4-a8b4-b5f499d5964e
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/5daa93c4-8deb-4af4-a8b4-b5f499d5964e) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -60,11 +51,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/5daa93c4-8deb-4af4-a8b4-b5f499d5964e) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
 
 Yes, you can!
 
